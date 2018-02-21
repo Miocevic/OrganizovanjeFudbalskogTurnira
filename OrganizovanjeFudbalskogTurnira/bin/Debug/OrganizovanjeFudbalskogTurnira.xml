@@ -1,0 +1,528 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OrganizovanjeFudbalskogTurnira
+</name>
+</assembly>
+<members>
+<member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.ArsenalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.ChelseaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.EvertonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.GRUPA_ADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.GRUPA_BDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.IGRACIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.LiverpoolDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.Manchester_CityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.Manchester_UnitedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.SouthamptonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.TIMOVIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.TottenhamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.UTAKMICEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.ArsenalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.ChelseaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.EvertonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.GRUPA_ARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.GRUPA_BRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.IGRACIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.LiverpoolRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.Manchester_CityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.Manchester_UnitedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.SouthamptonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.TIMOVIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.TottenhamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.UTAKMICERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.ArsenalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.ChelseaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.EvertonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.GRUPA_ARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.GRUPA_BRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.IGRACIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.LiverpoolRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.Manchester_CityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.Manchester_UnitedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.SouthamptonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.TIMOVIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.TottenhamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet.UTAKMICERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.ArsenalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.ChelseaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.EvertonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.GRUPA_ATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.GRUPA_BTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.IGRACITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.LiverpoolTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.Manchester_CityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.Manchester_UnitedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.SouthamptonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.TIMOVITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.TottenhamTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.UTAKMICETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.TableAdapterManager.UpdateAll(OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.ArsenalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.ChelseaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.EvertonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.GRUPA_ADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.GRUPA_BDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.IGRACIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.LiverpoolDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.Manchester_CityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.Manchester_UnitedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.POLUFINALEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.SouthamptonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.TIMOVIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.TottenhamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.UTAKMICEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.ArsenalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.ChelseaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.EvertonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.GRUPA_ARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.GRUPA_BRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.IGRACIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.LiverpoolRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.Manchester_CityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.Manchester_UnitedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.POLUFINALERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.SouthamptonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.TIMOVIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.TottenhamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.UTAKMICERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.ArsenalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.ChelseaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.EvertonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.GRUPA_ARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.GRUPA_BRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.IGRACIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.LiverpoolRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.Manchester_CityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.Manchester_UnitedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.POLUFINALERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.SouthamptonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.TIMOVIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.TottenhamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1.UTAKMICERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.ArsenalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.ChelseaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.EvertonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.GRUPA_ATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.GRUPA_BTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.IGRACITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.LiverpoolTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.Manchester_CityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.Manchester_UnitedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.POLUFINALETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.SouthamptonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.TIMOVITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.TottenhamTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.UTAKMICETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.TableAdapterManager.UpdateAll(OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.OrganizacijaTurniraDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:OrganizovanjeFudbalskogTurnira.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OrganizovanjeFudbalskogTurnira.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:OrganizovanjeFudbalskogTurnira.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
